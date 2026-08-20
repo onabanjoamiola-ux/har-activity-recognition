@@ -2,7 +2,7 @@
 
 **3rd place finish on the private leaderboard | Private score: 0.90888 | Public score: 0.91329**
 
-A six-class Human Activity Recognition (HAR) system built on smartphone accelerometer data. This project was part of a Kaggle-style competition run within the MSc Data Science programme at Liverpool John Moores University (Module 7021DATSCI — Machine Learning and Data Mining).
+A six-class Human Activity Recognition (HAR) system built on smartphone accelerometer data. This project was part of a Kaggle-style competition run within the MSc Data Science programme at Liverpool John Moores University.
 
 ---
 
